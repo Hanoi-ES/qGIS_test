@@ -1,0 +1,1 @@
+var json_qfield_form_tutorialszones_1 = {"type":"FeatureCollection","name":"qfield_form_tutorialszones_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
